@@ -36,3 +36,8 @@ We value your feedback! If you have suggestions for improvements, encounter any 
 ## Happy Cooking!
 
 Whether you're a seasoned chef or a cooking novice, the Recipe Generator is here to spark your culinary creativity. Have fun experimenting with new recipes, and may your kitchen be filled with the delightful aromas of your creations. Happy cooking! 🍳👩‍🍳👨‍🍳
+
+The final output would be like this
+<img width="800" alt="Screenshot 2023-08-17 124717" src="https://github.com/sony-panakkal/Recipe-Generator/assets/129001576/ad9ad1fd-94e0-432c-9758-b79d84f7b20d">
+
+
